@@ -1,0 +1,7 @@
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\MyAlphaWorld.web.exe
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\appsettings.json
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\MyAlphaWorld.web.dll
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\MyAlphaWorld.web.deps.json
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\MyAlphaWorld.web.runtimeconfig.json
+C:\Users\azhar\MyAlphaWorld\MyAlphaWorld.web\bin\Release\net6.0\publish\MyAlphaWorld.web.pdb
